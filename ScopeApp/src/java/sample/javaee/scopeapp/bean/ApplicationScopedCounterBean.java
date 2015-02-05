@@ -5,7 +5,7 @@ import javax.inject.Named;
 import javax.enterprise.context.ApplicationScoped;
 
 @Named(value = "applicationScopedCounterBean")
-@ApplicationScoped //ƒXƒR[ƒvéŒ¾
+@ApplicationScoped //ã‚¹ã‚³ãƒ¼ãƒ—å®£è¨€
 public class ApplicationScopedCounterBean {
 
     public ApplicationScopedCounterBean() {    }
